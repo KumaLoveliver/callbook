@@ -1,0 +1,24 @@
+1、取消了SUNNY DAY SONG的换橙色(ver.2)
+2、增加了SUNNY DAY SONG中“SUNNY DAY Wow!Sun power!”的323手势(ver.2)
+
+3、添加了Super LOVE=Super LIVE!的call表(ver.3)
+
+4、添加了MOMENT RING、さようならへさよなら!的call表(ver.4)
+
+5、增加了さようならへさよなら!的备注，可以PPPH但是可能没人会这么做(ver.5)
+
+6、修改了MOMENT RING的call(ver.6)
+7、取消了さようならへさよなら!中的“温柔地”动作(ver.6)
+
+8、修改了春情ロマンティック中一番副歌最后一句的call(ver.7)
+9、修改了春情ロマンティック中二番副歌的前挥悬停改为前挥(ver.7)
+10、修改了Angelic Angel中B melo的最后一句，把“里打”变成“前挥”(ver.7)
+11、修改了PSYCHIC FIRE中fuwafuwa的位置(ver.7)
+12、修改了Hello, 星を数えて的所有前挥、快挥，从慢前挥、慢快挥改回普通前挥、快挥(ver.7)
+
+13、添加或删除了SUNNY DAY SONG中的部分跟唱，前奏的最后的快挥*6改为fufufufufufu(ver.8)
+
+14、取消了Angelic Angel中C melo的“Angel”跟唱(ver.9)
+15、添加了SUNNY DAY SONG中的b melo最后的fufufu(ver.9)
+16、取消了Future style中副歌的“future style”和“shiny style”跟唱(ver.9)
+17、添加了Super LOVE=Super LIVE!三番副歌的第二次跟唱“LOVELIVE!!”(ver.9)
